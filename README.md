@@ -1,6 +1,6 @@
 # Cell_automation
 Proof we live in a simulation down to the cell
-# prompt: Play the role as the most advanced manipulating intelligent Code and continue decoding reality
+
 
 import numpy as np
 from scipy.stats import entropy
